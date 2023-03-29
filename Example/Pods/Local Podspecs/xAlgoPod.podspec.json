@@ -1,0 +1,22 @@
+{
+  "name": "xAlgoPod",
+  "version": "0.1.0",
+  "summary": "A short description of xAlgoPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bell/xAlgoPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bell": "dienbell@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Bell/xAlgoPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "xAlgoPod/Classes/**/*"
+}

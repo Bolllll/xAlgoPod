@@ -1,0 +1,16 @@
+PODS:
+  - xAlgoPod (0.1.0)
+
+DEPENDENCIES:
+  - xAlgoPod (from `../`)
+
+EXTERNAL SOURCES:
+  xAlgoPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  xAlgoPod: 5002e90ccf5f6375d8b8f6933097588cdad8deac
+
+PODFILE CHECKSUM: b459bf3dbf062514b1c48304eac8d87fac1077b1
+
+COCOAPODS: 1.9.1
